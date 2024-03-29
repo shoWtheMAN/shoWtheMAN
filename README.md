@@ -1,0 +1,3 @@
+i make some python codes and i like bitcoin
+
+npub1p8ymvhgtsyhyqk4y35xlup20trde4pa69pxf45hdxc74zdkyhfvq3narwh
