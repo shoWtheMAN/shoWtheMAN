@@ -6,4 +6,4 @@
 
 <p>I will try to make some btc rewarded games.</p>
 
-<p>feel free to donate to and request projects: guiMASTER@zbd.gg</p>
+<p>feel free to donate to and request projects: amiablebrother67@walletofsatoshi.com</p>
