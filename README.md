@@ -2,7 +2,7 @@
 
 <p>I'm learning and i want to document it and it would be awesome to receive some feedback.</p>
 
-<h4>Lighning projects</h4>
+<h4>Lightning projects</h4>
 
 <p>I will try to make some btc rewarded games.</p>
 
