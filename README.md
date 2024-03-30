@@ -1,6 +1,6 @@
 <h2>Introduction</h2>
 
-<p>I'm learning and i want to document it and it would be awsome to receive some feedback.</p>
+<p>I'm learning and i want to document it and it would be awesome to receive some feedback.</p>
 
 <h4>Lighning projects</h4>
 
